@@ -133,11 +133,20 @@ Open in browser:
 
 ---
 
+
 ## 📸 Screenshots
 
-![Homepage](assets/homepage.png)
+### 🌐 Phishing URL Detection
+![Phishing URL](assets/phishing_url.png)
 
----
+### 🌐 Safe URL Detection
+![Safe URL](assets/safe_url.png)
+
+### 📧 Phishing Email Detection
+![Phishing Email](assets/phishing_email.png)
+
+### 📧 Safe Email Detection
+![Safe Email](assets/safe_email.png)
 
 ## 🎯 Future Enhancements
 
